@@ -2,7 +2,11 @@
 A UC Berkeley **ECON148: Data Science for Economists** project.
 
 ### Introduction
-In this project, we will make an attempt to replicate a famous paper "The Impact of the Mariel Boatlift on the Miami Labor Market" by Prof. David Card on the effects of the Mariel Boatlift on the Miami labor market.
+In this project, we will make an attempt to replicate a famous paper ["The Impact of the Mariel Boatlift on the Miami Labor Market"](https://davidcard.berkeley.edu/papers/mariel-impact.pdf) by Prof. David Card on the effects of the Mariel Boatlift on the Miami labor market. The analysis file can be found [here](https://github.com/lettaisabel/Mariel-Boatlift/blob/main/proj02.ipynb).
+
+**Skill sets applied in this project include:**
+- Employed `Pandas` for advanced data wrangling to prepare the dataset for subsequent analysis.
+- Using the `OLS regression` to quantitatively determine the association between certain variables and wages.
 
 ### Historical Background
 Amidst an economic downturn in Cuba and an increasing number of dissident Cubans seeking asylum, the Cuban leader Fidel Castro announced on April 20, 1980 that any Cuban who wished to leave the island could do so, reversing the Communist regime’s closed emigration policy. Between April and October 1980, some 1,700 boats, many arranged by Cuban exiles already in the United States, carried Cubans from the port of Mariel (the departure zone designated by the Castro government) to Florida. 
